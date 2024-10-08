@@ -7,6 +7,9 @@
   <groupId>com.havaproject1</groupId>
   <artifactId>demo</artifactId>
   <version>test</version>
+  <build>
+    <finalName>docker-jenkins-integration-sample</finalName>
+  </build>
 
   <name>demo</name>
   <!-- FIXME change it to the project's website -->
